@@ -1,6 +1,6 @@
 <h1>Hey Eugine here<br/><a href="https://github.com/EugineI">Programmer</a>, <a href="www.linkedin.com/in/eugindimuli">Software Engineering student at Multimedia University of Kenya</a></h1>
 
-<h2>👨‍💻Personal projects Projects:</h2>
+<h2>👨‍💻Personal Projects:</h2>
 
 
  <b>Python</b>
